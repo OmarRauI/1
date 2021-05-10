@@ -1,0 +1,34 @@
+<html>
+<head>
+</head>
+<body bgcolor="#EBDCA7">
+<h2 align="center"><font color="green"><u>El Libro</u></h2></font>
+<hr color="yellow">
+<h1><font color="green"><center>Un libro (del latín liber, libri)</center></font></h1>
+<center><img src="https://s1.eestatic.com/2019/07/01/como/libros-estudiantes-universidad_410470522_127023887_1706x960.jpg"></td></center>
+<hr color="yellow">
+<table border width=100% bgcolor="yellow">
+<tr align=center>
+<th><a href="Caracteristicas.html">Caracteristicas</a></th><th><a href="Recomendados.html">Recomendados</a></th><th><a href="libros digitales.html">Libros Digitales</a></th><th><a href="Para niños.html">Para niños</a></th><th><a href="para estudios.html">Para estudios</a></th>
+</tr>             
+</table>
+<H1><i>El primer libro</i></H1>
+El 11 de mayo, se festeja el día del libro impreso. Pero, ¿sabes dónde se imprimió el primer libro de la historia?
+El 11 de mayo del año 868, hace 1.145 años, el chino Wang Jie autorizó la impresión y distribución de El sutra del diamante, el libro impreso más antiguo del que se tiene conocimiento, el cual se estampó casi 600 años antes que la Biblia de Gutenberg.
+
+Aunque cabe aclarar que El sutra del diamante no es el primer texto impreso como tal de la historia pero sí el más antiguo que se conserva hasta la fecha.
+
+Alrededor del año 1440, Johannes Gutenberg, un herrero alemán, inventó la imprenta de tipos móviles (de metal) en Europa y el primer libro que se imprimió en su imprenta fue el Misal de Constanza, entre los años 1449 y 1450.
+Aunque el mayor trabajo realizado por Gutenberg fue la Biblia de 42 líneas o Biblia de Mazarino, a la que se considera un ícono que marca el comienzo de la “Edad de la Imprenta” hasta esa fecha.
+
+El texto original de El sutra del diamante, escrito en sánscrito, fue traducido al chino por un monje erudito indio llamado Kumarajiva,alrededor del año 400.
+La copia china que se conserva, del año 868, fue hallada en 1907 por Aurel Stein (1862-1943), un arqueólogo húngaro-británico.
+Este pergamino, de unos cinco metros de largo, había permanecido oculto, junto a otros 40.000 libros y manuscritos, en una cueva cercana a Dunhuang, una ciudad importante en la antigua Ruta de la Seda.
+
+Esta biblioteca secreta fue sellada alrededor del año 1000, en una época en que esta región sufrió la amenaza del Imperio Tangut.
+
+En 1900, un monje descubrió la entrada sellada de la cueva, en cuyo interior se habían conservado perfectamente los pergaminos de papel y seda gracias al aire seco del desierto.
+<center><img src="https://i2.wp.com/noticieros.televisa.com/wp-content/uploads/2017/05/libro.jpg?w=500&ssl=1"></center>
+</body>
+</html>
+
